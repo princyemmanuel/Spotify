@@ -1,7 +1,13 @@
 # Spotify
 
-front end - Please refer 
+front end - Please refer :components
+                          App
+                          index
+                          song
 
-backend -
+backend -  Please refer :controllers
+                         routes
+                         models
+                         app
 
-app
+
