@@ -1,13 +1,14 @@
 # Spotify
 
 front end - Please refer :components
-                          App
-                          index
+                          App.js
+                          index.js
+                          index.css
                           song
 
 backend -  Please refer :controllers
                          routes
                          models
-                         app
+                         app.js
 
 
